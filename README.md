@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Boyan</h1>
 <h3 align="center">Self-motivated and reliable third-year university student with willingness to learn and constantly improve. With a flexible and meticulous attitude when working on new projects. Passionate about technology, finance, and traveling.</h3>
 
-- 👨‍💻Courses [https://softuni.bg/certificates/details/209300/56b60dfd](https://softuni.bg/certificates/details/209300/56b60dfd)
+- 🔭 Study: **Informatics in New Bulgarian Uneversity**
+
+- 👯 Assistant Lecturer - **SoftUni**
+
+- 👨‍💻Courses: 
+[DataBase](https://softuni.bg/certificates/details/209300/56b60dfd)
+[Java OOP](https://softuni.bg/Certificates/Details/195740/9e1bef49)
+[Java Advanced](https://softuni.bg/certificates/details/188580/53d4deca)
+[MySql](https://softuni.bg/certificates/details/202720/dd302327)
 
 - 📫 How to reach me **boyan.antonov02@gmail.com**
 
