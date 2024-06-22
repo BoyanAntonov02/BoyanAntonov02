@@ -6,8 +6,9 @@
 - 👯 Lecturer - **SoftUni**
 
 - 💼 Work Experience: 
+  - **Lecturer** - SoftUni, April 2024 - Present
   - **Marketing Intern** - Ideal Standard, July 2023 - September 2023
-  - **Assistant Lecturer** - SoftUni, April 2024 - Present
+  
 
 - 👨‍💻 Courses: 
   - [Programming Basics](https://softuni.bg/certificates/details/209300/56b60dfd)
@@ -42,3 +43,42 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Other Skills:</h3>
+<ul>
+  <li>Algorithms</li>
+  <li>Data Structures</li>
+  <li>Unit Testing</li>
+  <li>Time Management</li>
+  <li>Adaptability</li>
+  <li>Team player</li>
+  <li>Problem-solving</li>
+</ul>
