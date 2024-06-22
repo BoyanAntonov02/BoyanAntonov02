@@ -3,7 +3,7 @@
 
 - 🔭 Study: **Informatics in New Bulgarian Uneversity**
 
-- 👯 Assistant Lecturer - **SoftUni**
+- 👯 Lecturer - **SoftUni**
 
 - 👨‍💻Courses: 
 [DataBase](https://softuni.bg/certificates/details/209300/56b60dfd)
