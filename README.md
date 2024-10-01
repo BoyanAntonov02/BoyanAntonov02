@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boyan Antonov</h1>
-<h3 align="center">Self-motivated and reliable third-year university student with a willingness to learn and constantly improve. With a flexible and meticulous attitude when working on new projects. Passionate about technology, finance, and traveling.</h3>
+<h3 align="center">Highly motivated Java developer with almost two years of experience and a final year Informatics student at New Bulgarian University. Strongly desiring constant improvement and opportunities to work on different projects. Passionate about technology, finance, and innovation. An excellent problem solver with a well-developed can-do attitude toward any new challenge.</h3>
 
 - 🔭 Study: **Informatics at New Bulgarian University**
 
